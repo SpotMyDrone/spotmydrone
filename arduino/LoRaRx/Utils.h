@@ -1,4 +1,4 @@
-/* Utils.h - a simple set of functions to serialize/deserialize GPS data */
+/* Utils.h - a simple set of functions to serialise/deserialise GPS data */
 /*
   Copyright (c) 2015 Roberto Cazzaro.  All rights reserved.
 
